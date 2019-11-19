@@ -4,6 +4,7 @@
   "description": "Flex layout component for advanced React web applications",
   "main": "dist/commonjs/index.js",
   "module": "dist/es/index.js",
+  "browser": "dist/rereflex.all.js",
   "types": "./dist/index.d.ts",
   "files": [
     "dist",
